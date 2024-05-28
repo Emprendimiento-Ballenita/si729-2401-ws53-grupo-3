@@ -1,0 +1,13 @@
+package pe.edu.upc.turisteando.tour_guide_service;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class TourGuideServiceApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(TourGuideServiceApplication.class, args);
+	}
+
+}
